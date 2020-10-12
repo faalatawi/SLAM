@@ -1,3 +1,7 @@
+# Important note:
+This repo is fork of (https://github.com/meyiao/LaserSLAM). The reason why it's not showing as a fork is my mistake and poor understanding of GitHub at the time. 
+
+
 # LaserSLAM
 SLAM using 2D lidar<br>
 ![image](https://github.com/meyiao/LaserSlam/blob/master/museum.png)<br>
